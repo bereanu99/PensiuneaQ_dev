@@ -51,8 +51,6 @@
       </div> <!-- end login -->
 
     </div>
-    <div class="bottom">  <h3><a href="../index.php">SUN RISE HOMEPAGE</a></h3></div>
-  
   
 </body>
 </html>
